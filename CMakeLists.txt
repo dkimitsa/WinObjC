@@ -15,3 +15,4 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wno-write-strings")
 
 add_executable(xib2nib ${SOURCE_FILES})
 target_link_libraries(xib2nib PlistCpp)
+install(TARGETS xib2nib RUNTIME DESTINATION bin)
