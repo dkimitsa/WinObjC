@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 2.6) 
+cmake_minimum_required (VERSION 2.6)
 project (Plist)
 
 option(PLIST_BUILD_TESTS "Build and run tests" OFF)
@@ -18,7 +18,10 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${EXTRA_CXX_FLAGS} -Wall")
 set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} ${EXTRA_CXX_FLAGS} -Wall")
 set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} ${EXTRA_CXX_FLAGS} -Wall -DTEST_VERBOSE")
 
-add_library(PlistCpp src/Plist.cpp src/PlistDate.cpp)
+add_library(PlistCpp src/Plist.cpp src/PlistDate.cpp
+		third-party/pugixml/src/pugixml.cpp 
+		$<TARGET_OBJECTS:NSPlist>)
+target_include_directories(PlistCpp PUBLIC src third-party third-party/pugixml/src third-party/NSPlist/src)
 
 IF(PLIST_BUILD_TESTS)
 	add_subdirectory(third-party/unittest-cpp)
