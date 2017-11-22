@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 11)
 add_subdirectory(external/PlistCpp)
 include_directories(stubs/xib2nib/)
 
-file(GLOB xib2nib_SRC "tools/vsimporter/xib2nib/src/*.cpp")
+file(GLOB xib2nib_SRC "src/*.cpp")
 set(SOURCE_FILES ${xib2nib_SRC})
 
 
