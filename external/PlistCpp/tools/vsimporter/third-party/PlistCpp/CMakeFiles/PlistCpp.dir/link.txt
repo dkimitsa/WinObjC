@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPlistCpp.a  CMakeFiles/PlistCpp.dir/src/Plist.cpp.o CMakeFiles/PlistCpp.dir/src/PlistDate.cpp.o
+/usr/bin/ranlib libPlistCpp.a

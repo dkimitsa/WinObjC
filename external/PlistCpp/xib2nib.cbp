@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="xib2nib"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\tools\;CMake Files\tools\vsimporter\;CMake Files\tools\vsimporter\third-party\;CMake Files\tools\vsimporter\third-party\PlistCpp\;CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\;CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\NSPlist\;CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\pugixml\;CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\pugixml\scripts\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xib2nib">
+				<Option output="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/xib2nib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 xib2nib"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xib2nib/fast">
+				<Option output="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/xib2nib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 xib2nib/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PlistCpp">
+				<Option output="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/libPlistCpp.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party"/>
+					<Add directory="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/src"/>
+					<Add directory="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/src"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 PlistCpp"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PlistCpp/fast">
+				<Option output="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/libPlistCpp.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party"/>
+					<Add directory="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/src"/>
+					<Add directory="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/src"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 PlistCpp/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pugixml">
+				<Option output="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/libpugixml.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPUGIXML_NO_EXCEPTIONS=1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/Makefile&quot;  VERBOSE=1 pugixml"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pugixml/fast">
+				<Option output="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/libpugixml.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPUGIXML_NO_EXCEPTIONS=1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/Makefile&quot;  VERBOSE=1 pugixml/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NSPlist">
+				<Option output="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/libNSPlist.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/Makefile&quot;  VERBOSE=1 NSPlist"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NSPlist/fast">
+				<Option output="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/libNSPlist.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/Makefile&quot;  VERBOSE=1 NSPlist/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/src/Plist.cpp">
+			<Option target="PlistCpp"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/src/Plist.hpp">
+			<Option target="PlistCpp"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/src/PlistDate.cpp">
+			<Option target="PlistCpp"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/src/PlistDate.hpp">
+			<Option target="PlistCpp"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/src/NSPlist.cpp">
+			<Option target="NSPlist"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/src/NSPlist.h">
+			<Option target="NSPlist"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/src/NSPlistLexer.cpp">
+			<Option target="NSPlist"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/src/NSPlistParser.cpp">
+			<Option target="NSPlist"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/src/NSPlistParser.h">
+			<Option target="NSPlist"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/src/pugiconfig.hpp">
+			<Option target="pugixml"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/src/pugixml.cpp">
+			<Option target="pugixml"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/src/pugixml.hpp">
+			<Option target="pugixml"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/MKMapView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/MKMapView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/NIBWriter.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/NIBWriter.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/NSLayoutConstraint.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/NSLayoutConstraint.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/ObjectConverter.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/ObjectConverter.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIActivityIndicatorView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIActivityIndicatorView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIBarButtonItem.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIBarButtonItem.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIButton.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIButton.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UICollectionView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UICollectionView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UICollectionViewCell.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UICollectionViewCell.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UICollectionViewController.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UICollectionViewController.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIColor.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIColor.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIControl.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIControl.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UICustomResource.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UICustomResource.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIDatePicker.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIDatePicker.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIFont.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIFont.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIGestureRecognizer.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIGestureRecognizer.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIImageView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIImageView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UILabel.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UILabel.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UINavigationBar.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UINavigationBar.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UINavigationController.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UINavigationController.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UINavigationItem.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UINavigationItem.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIPageControl.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIPageControl.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIPanGestureRecognizer.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIPanGestureRecognizer.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIPickerView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIPickerView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIPongPressGestureRecognizer.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIPongPressGestureRecognizer.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIProgressView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIProgressView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIProxyObject.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIProxyObject.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIRuntimeAccessibilityConfiguration.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIRuntimeAccessibilityConfiguration.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIRuntimeEventConnection.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIRuntimeEventConnection.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIRuntimeOutletCollectionConnection.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIRuntimeOutletCollectionConnection.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIRuntimeOutletConnection.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIRuntimeOutletConnection.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIScrollView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIScrollView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISearchBar.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISearchBar.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISearchDisplayController.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISearchDisplayController.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISegment.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISegment.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISegmentedControl.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISegmentedControl.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISlider.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISlider.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIStackView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIStackView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIStepper.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIStepper.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIStoryboardSegue.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIStoryboardSegue.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISwipeGestureRecognizer.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISwipeGestureRecognizer.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISwitch.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UISwitch.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITabBar.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITabBar.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITabBarController.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITabBarController.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITabBarItem.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITabBarItem.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITableView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITableView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITableViewCell.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITableViewCell.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITableViewCellContentView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITableViewCellContentView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITableViewController.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITableViewController.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITapGestureRecognizer.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITapGestureRecognizer.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITextField.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITextField.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITextView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UITextView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIToolbar.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIToolbar.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIViewController.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIViewController.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIWebView.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIWebView.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIWindow.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/UIWindow.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBDictionary.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBDictionary.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBDocument.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBDocument.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObject.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObject.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectDouble.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectDouble.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectFloat.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectFloat.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectInt.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectInt.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectNil.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectNil.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectTypes.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/XIBObjectTypes.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/_UILayoutGuide.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/_UILayoutGuide.h">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/xib2nib/src/xib2nib.cpp">
+			<Option target="xib2nib"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\vsimporter\third-party\PlistCpp\"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\vsimporter\third-party\PlistCpp\"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\NSPlist\"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\NSPlist\"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/NSPlist/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\NSPlist\"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\pugixml\scripts\"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\pugixml\scripts\"/>
+		</Unit>
+		<Unit filename="/home/dkimitsa/projects/WinObjC/tools/vsimporter/third-party/PlistCpp/third-party/pugixml/scripts/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\vsimporter\third-party\PlistCpp\third-party\pugixml\scripts\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
