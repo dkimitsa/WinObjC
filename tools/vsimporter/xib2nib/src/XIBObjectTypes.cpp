@@ -290,6 +290,8 @@ void XIBArray::EmitObject(NIBWriter* writer) {
     }
     this->_outputClassName = _className;
     // printf("NSArray\n");
+    // remove all outputMembers as there could be data present as result of previous emit call
+    this->_outputMembers.clear();
     for (int i = 0; i < _members.size(); i++) {
         XIBMember* pMember = _members[i];
 
